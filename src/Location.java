@@ -7,7 +7,7 @@ public class Location
         theRow = r;
         theCol = c;
     }
-    
+
     public int getRow() {
         return theRow;
     }
